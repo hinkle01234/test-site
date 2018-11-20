@@ -6,41 +6,13 @@
     <meta charset="utf-8"/>
 
 <title>Mysite</title>
-
-
-
-
-
-
-        
+    
         </head>
 <body>
         
            
             <header class="container" id="SITE_HEADER" >
             <div id="SITE_STRUCTURE_WRichText_0" class="Text">
-
-
-            <nav>
-    <ul id="DrpDwnMn1" class="menu">
-                <li class="menuItem">
-    <a id="dataItem-ihyqn5xu" href="https://hinklee22.wixsite.com/mysite/services" target="_self" title="Services" class="menuItemHref">Services</a>
-    </li>
-
-                <li class="menuItem">
-    <a id="220" href="https://hinklee22.wixsite.com/mysite/projects" target="_self" title="Goals" class="menuItemHref">Goals</a>
-    </li>
-
-                <li class="menuItem">
-    <a id="1ehw" href="https://hinklee22.wixsite.com/mysite/clients" target="_self" title="Customers" class="menuItemHref">Customers</a>
-    </li>
-
-                <li class="menuItem">
-    <a id="dataItem-igc673qm1" href="https://hinklee22.wixsite.com/mysite" target="_self"       rel="nofollow" title="Contact" class="menuItemHref">Contact</a>
-    </li>
-
-            </ul>
-</nav>
 
     </header>
 <section class="page" id="ijdas">
@@ -54,7 +26,7 @@
             <div id="comp-j56e7x0y" class="Text">
     <h3 class="font_3" style="line-height:0.8em; text-align:center"><span>STRIDE WITH PRIDE</span></h3>
 
-<h3 class="font_3" style="font-size:18px; line-height:0.8em; text-align:center"><span><span style="font-size:18px"><span class="wixGuard">​</span></span></span></h3>
+<h3 class="font_3" style="font-size:18px; line-height:0.8em; text-align:center"><span><span style="font-size:18px"><span class="Guard">​</span></span></span></h3>
 
 <h3 class="font_3" style="font-size:20px; line-height:0.8em; text-align:center"><span style="font-size:20px">GYM AND PERSONAL TRAINING SERVICES</span></h3>
 </div>
